@@ -8,7 +8,7 @@
 <body>
 
 <h2>Spring MVC Multiple Row Form Submit</h2>
-<form:form method="post" action="save.html" modelAttribute="contactForm">
+<form:form method="post" action="save" modelAttribute="contactForm">
 	<table>
 	<tr>
 		<th>No.</th>
